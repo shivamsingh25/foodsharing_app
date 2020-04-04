@@ -1,0 +1,4 @@
+#Tue Mar 31 19:26:36 IST 2020
+base.0=/home/shivam/Desktop/YT/foodsharing_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
